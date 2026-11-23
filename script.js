@@ -29,7 +29,7 @@ const productos = [
   {
     nombre: "Budin",
     precio: 3,
-    imagen: "budin.jpg"
+    imagen: "Budin.jpg"
   },
 
   {
