@@ -11,13 +11,13 @@ const productos = [
   {
     nombre: "Heladito de chocolate",
     precio: 2,
-    imagen: "heladito-chocolate.png"
+    imagen: "heladito-chocolate.jpg"
   },
 
   {
     nombre: "Arroz con leche",
     precio: 3,
-    imagen: "arroz-leche.png"
+    imagen: "arroz-leche.jpg"
   },
 
   {
@@ -27,15 +27,15 @@ const productos = [
   },
 
   {
-    nombre: "Budín",
+    nombre: "Budin",
     precio: 3,
-    imagen: "budín.png"
+    imagen: "budin.jpg"
   },
 
   {
     nombre: "Gelatina",
     precio: 3,
-    imagen: "gelatina.png"
+    imagen: "gelatina.jpg"
   }
 
 ];
